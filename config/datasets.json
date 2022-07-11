@@ -1,0 +1,20 @@
+{
+  "NCAR/CESM2/SAI-1.5-2035" : {
+    "description" : "CESM2 (WACCM) Geoengineering simulations",
+
+    "aliases" : [ 
+      "NCAR/CESM2/SAI-1.5",
+      "NCAR/CESM2/ARISE-SAI-1.5",
+      "NCAR/CESM2/ARISE-SAI-1.5-2035",
+      "CESM2/SAI-1.5",
+      "CESM2/ARISE-SAI-1.5",
+      "CESM2/ARISE-SAI-1.5-2035" 
+    ],
+
+    "systems" : [
+      "cloud" : "https://raw.githubusercontent.com/NCAR/CESM2-ARISE/main/catalogs/cesm2-arise-sai-1.5.json" 
+    ],
+
+    "home" : "https://github.com/NCAR/CESM2-ARISE"
+  }
+}
