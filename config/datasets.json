@@ -11,9 +11,9 @@
       "CESM2/ARISE-SAI-1.5-2035" 
     ],
 
-    "systems" : [
+    "systems" : {
       "cloud" : "https://raw.githubusercontent.com/NCAR/CESM2-ARISE/main/catalogs/cesm2-arise-sai-1.5.json" 
-    ],
+    },
 
     "home" : "https://github.com/NCAR/CESM2-ARISE"
   }
